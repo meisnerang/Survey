@@ -1,0 +1,18 @@
+body {
+	background-image: url("testLowContast2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+form {
+	margin-right: 20%;
+	margin-left: 20%;
+}
+.form-group {
+	margin-bottom: 15px;
+}
+label, p {
+	font-weight: bold;
+}
+textarea {
+	width: 100%;
+}
